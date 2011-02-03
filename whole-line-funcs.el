@@ -6,10 +6,10 @@
 ;; Maintainer:
 ;; Created: Mon Jan 31 10:42:39 2011 (+0800)
 ;; Version: 0.8
-;; Last-Updated: Thu Feb  3 18:25:41 2011 (+0800)
+;; Last-Updated: Thu Feb  3 19:00:31 2011 (+0800)
 ;;           By: Le Wang
-;;     Update #: 6
-;; URL: https://github.com/lewang/le_emacs_libs/blob/master/whole-line-funcs.el
+;;     Update #: 7
+;; URL: https://github.com/lewang/le_emacs_whole_line_funcs
 ;; Keywords: convenience whole-line region editing
 ;; Compatibility: GNU Emacs 23.2
 ;;
